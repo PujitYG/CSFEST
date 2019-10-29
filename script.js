@@ -225,7 +225,7 @@ function create_node(v,k){
 
 
 function cards(){
-    for(var i=1;i<15;i++){
+    for(var i=0;i<15;i++){
             eve(events[i]);
     }
 }
