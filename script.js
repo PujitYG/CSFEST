@@ -202,7 +202,7 @@ var events=[{
 },
 {
     "event": "MINI BASKETBALL",
-    "rules": "Team of 3. The tournament proceeds depending upon the number of teams.3 players,1 substitute .Toss decides the starting team.Looser's ball  2 halves - 7mins each (14 playing minutes per match) .Team with the maximum points at the end of second half is the winner,cash price may subject.",
+    "rules": "Team of 3. The tournament proceeds depending upon the number of teams.3 players,1 substitute .Toss decides the starting team.Looser's ball  2 halves - 7mins each (14 playing minutes per match) .Team with the maximum points at the end of second half is the winner,cash price may subject to change without prior notice(will only increase).",
     "rounds": [],
     "date": "9th",
     "time": "9:30 AM",
