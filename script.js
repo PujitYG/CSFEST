@@ -202,16 +202,17 @@ var events=[{
 },
 {
     "event": "MINI BASKETBALL",
-    "rules": "Team of 3. The tournament proceeds depending upon the number of teams.",
+    "rules": "Team of 3. The tournament proceeds depending upon the number of teams.3 players,1 substitute .Toss decides the starting team.Looser's ball  2 halves - 7mins each (14 playing minutes per match) .Team with the maximum points at the end of second half is the winner  ",
     "rounds": [],
     "date": "9th",
     "time": "9:30 AM",
     "venue": "Basketball Court",
-    "Entry": "120",
-    "prize1": "1200",
-    "prize2": "600"
+    "Entry": "120/person",
+    "prize1": "1500",
+    "prize2": "800"
 }
 ]
+
 
 function create_node(v,k){
     var p1=document.createElement('p');
@@ -225,7 +226,7 @@ function create_node(v,k){
 
 
 function cards(){
-    for(var i=0;i<15;i++){
+    for(var i=0;i<events.length;i++){
             eve(events[i]);
     }
 }
