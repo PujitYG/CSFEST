@@ -46,6 +46,10 @@ background-color: black;
   animation-iteration-count: infinite;
 }
 
+.th{
+   font-size:17vh;
+}
+
 #carousel-item{
     background-image: url(images/carousel.png);
     background-attachment: fixed;
@@ -199,6 +203,10 @@ background-color: black;
         background-position: center;
         background-repeat: no-repeat;
         /* max-width: 200px; */
+    }
+
+    .th{
+        font-size:12vh;
     }
     
     #card1{
