@@ -14,7 +14,7 @@ function obj(event,rules,rounds, date, time, venue, entry, prize1,prize2) {
 
 var events=[{
     "event": "BEG BORROW STEAL",
-    "rules": "A team will comprise of 2 players.All the teams will be provided with a list of items.Team members will have to complete the task within a time limit of 1 hour.Team can either beg, borrow or steal the items enlisted.Teams will be judged on first come first serve basis and also on the number of items and the relevance of the items collected.",
+    "rules": "A team will comprise of 2 players.All the teams will be provided with a list of items.Team members will have to complete the task within a time limit of 1 hour.Team can either beg, borrow or steal the items enlisted.Teams will be judged on first come first serve basis and also on the number of items and the relevance of the items collected.Organisers decision is final",
     "rounds": [],
     "date": "9th",
     "time": "10 AM",
