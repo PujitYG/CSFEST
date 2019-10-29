@@ -14,7 +14,7 @@ function obj(event,rules,rounds, date, time, venue, entry, prize1,prize2) {
 
 var events=[{
     "event": "BEG BORROW STEAL",
-    "rules": "A team will comprise of 2 players.All the teams will be provided with a list of items.Team members will have to complete the task within a time limit of 1 hour.Team can either beg, borrow or steal the items enlisted.Teams will be judged on first come first serve basis and also on the number of items and the relevance of the items collected.Organisers decision is final",
+    "rules": "A team will comprise of 2 players.All the teams will be provided with a list of items.Team members will have to complete the task within a time limit of 1 hour.Team can either beg, borrow or steal the items enlisted.Teams will be judged on first come first serve basis and also on the number of items and the relevance of the items collected.Organisers decision is final.",
     "rounds": [],
     "date": "9th",
     "time": "10 AM",
@@ -137,8 +137,8 @@ var events=[{
     "prize2": "1000"
 },
 {
-    "event": "PHOTOGRAPHY AND MEME MAKING",
-    "rules": "Certified amount of time will be given to the participants to click a picture and pick a theme for their meme within the college campus. The date when the picture was clicked will be checked prior to the commencement of the time for making the meme. Any mobile application can be used to create the meme and the participant can pick any theme. Stipulated amount of time will be given to all the participants to create the meme. The meme will be judged on basis of creativity. Use of a vulgar theme/language is prohibited. Organizers decision will be final.",
+    "event": "MOBILE PHOTOGRAPHY AND MEME MAKING",
+    "rules": "Certified amount of time will be given to the participants to click a picture and pick a theme for their meme within the college campus. The date when the picture was clicked will be checked prior to the commencement of the time for making the meme. Any mobile application can be used to create the meme and the participant can pick any theme. Stipulated amount of time will be given to all the participants to create the meme. The meme will be judged on basis of creativity. Use of a vulgar theme/language is prohibited. Organizers decision will be final.If found using any other device other than mobile to take pictures, he/she will be disqualified immediately and refund would not be made.",
     "rounds": [],
     "date": "9th",
     "time": "9:30 AM",
