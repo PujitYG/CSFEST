@@ -207,7 +207,7 @@ var events=[{
     "date": "9th",
     "time": "9:30 AM",
     "venue": "Basketball Court",
-    "Entry": "120/person",
+    "Entry": "350",
     "prize1": "1500",
     "prize2": "800"
 }
@@ -258,12 +258,12 @@ function cards(){
         var p1=create_node('Room: ',arr.venue);
         div.appendChild(p1);
     
-        var p1=create_node('Entry Price: ',arr.Entry);
+        var p1=create_node('Entry Price: ₹',arr.Entry);
         div.appendChild(p1);
         
-        var p1=create_node('Prize 1: ',arr.prize1);
+        var p1=create_node('Prize 1: ₹',arr.prize1);
         div.appendChild(p1);
-        var p1=create_node('Prize 2: ',arr.prize2);
+        var p1=create_node('Prize 2: ₹',arr.prize2);
         div.appendChild(p1);
         var ma=document.getElementById("main-event");
         ma.appendChild(div);
