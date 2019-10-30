@@ -233,6 +233,7 @@ function cards(){
 
     function eve(arr){
         var div=document.createElement("div");
+        div.className=arr.event;
         div.classList.add("col");
         div.classList.add("col-lg-8");
         div.classList.add("col-des")
@@ -269,4 +270,12 @@ function cards(){
         ma.appendChild(div);
     }
 
+if(sessionStorage.getItem("Event")==undefined){
+   cards();
+}else{
     cards();
+    var a=sessionStorage.getItem("Event");
+    var a=document.getElementsByClassName(a)[0];
+    a.scrollIntoView();
+    sessionStorage.clear();
+}
