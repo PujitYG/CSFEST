@@ -207,7 +207,7 @@ var events=[{
     "date": "9th",
     "time": "9:30 AM",
     "venue": "Basketball Court",
-    "Entry": "350",
+    "Entry": "150",
     "prize1": "1500",
     "prize2": "800"
 }
