@@ -198,7 +198,8 @@ background-color: black;
         color: white;
         margin-bottom:10px;
         font-size:13vh;;
-        background-image:url(images/events-back.jpg);
+        /* background-image:url(images/events-back.jpg); */
+        color: rgb(145, 143, 143);
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
@@ -228,7 +229,7 @@ background-color: black;
     
     #nov{
         font-size: 50px;
-        background-image:url(images/events-back.jpg);
+        /* background-image:url(images/events-back.jpg); */
         background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;

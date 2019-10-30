@@ -45,7 +45,7 @@ var events=[{
     ],
     "date": "9th",
     "time": "11 AM",
-    "venue": "303",
+    "venue": "CN LAB",
     "Entry": "50",
     "prize1": "500",
     "prize2": "200"
