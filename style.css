@@ -61,7 +61,8 @@ background-color: black;
 }
 
 .eight-nine{
-    font-family: 'Old Standard TT', serif;
+    font-family: 'Fira Code', monospace;
+    /* font-family: 'Old Standard TT', serif; */
     /* color: white; */
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     font-size:20vh;
@@ -79,7 +80,8 @@ background-color: black;
     width:250px;
 }
 #nov{
-    font-family: 'Old Standard TT', serif;
+    font-family: 'Fira Code', monospace;
+    /* font-family: 'Old Standard TT', serif; */
     font-size: 90px;
     /* background-image: url(images/events-back.jpg);
     background-repeat: no-repeat;
@@ -175,6 +177,10 @@ background-color: black;
     padding: 0.5rem 2rem;
     clip-path: polygon(10% 0, 100% 0, 90% 100%,0 100%);
     background-color: black;
+  }
+
+  #bar{
+      position:sticky;
   }
 .card-link:hover{
     color:rgb(82, 82, 82);
