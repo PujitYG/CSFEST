@@ -203,7 +203,7 @@ background-color: black;
     .eight-nine{
         color: white;
         margin-bottom:10px;
-        font-size:12vh;;
+        font-size:11vh;;
         /* background-image:url(images/events-back.jpg); */
         color: rgb(145, 143, 143);
         background-attachment: fixed;
@@ -213,7 +213,7 @@ background-color: black;
     }
 
     .th{
-        font-size:12vh;
+        font-size:8vh;
     }
     
     #card1{
