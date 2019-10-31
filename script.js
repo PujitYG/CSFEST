@@ -39,7 +39,7 @@ var events=[{
 },
 {
     "event": "LOGIX",
-    "rules": "This is an individual event consiting of two rounds. Participants will be asked questions based on Aptitude and Logical Reasoning. They need to answer them correctly and quickly within the given time.",
+    "rules": "This is an individual event consisting of two rounds. Participants will be asked questions based on Aptitude and Logical Reasoning. They need to answer them correctly and quickly within the given time.",
     "rounds": ["The participants will be given a set of questions which should be answered in a time span of 20 minutes.5 Participants with most number of correct answers will be selected for second round.",
         "The selected participants will begiven questions and they should be answered in a time span of 10mins.The participant with highest number of points will be declared as winner."
     ],
@@ -52,7 +52,7 @@ var events=[{
 },
 {
     "event": "PAIR PROGRAMMING",
-    "rules": "There will be two rounds.",
+    "rules": "Team of two. There will be two rounds.",
     "rounds": [
         "The first round is for 30 minutes. The contestants will get their problem statement. Each team gets two problem statements.The solution to the problem can be done in any of the programming language.There should be no comments indicating the problem statement. If found, both of the contestants will be disqualified.After 15  minutes, the contestants will shift places with each other.The team that has both the solutions to the problem statements qualify to the next round.There will be no extra time given to solve.A piece of paper will be given to work out the problem. This sheet must not be exchanged with the other person. If done, it accounts to ground for disqualification.",
         "There will be only one problem statement for each team.The contestants of each team must decide who will go first.Only the first contestant in the team gets to know the problem statement.After 10 minutes, the second contestant is given the chance to figure out the problem and continue the solution.The second contestant has 10 minutes to do so.In the last 2 minutes both the contestants will be given a chance to work on the solution together."
@@ -66,7 +66,7 @@ var events=[{
 },
 {
     "event": "CODEATHON",
-    "rules": "This consist of two people. Any Programming Language can be used. This Event consists of two rounds.",
+    "rules": "This is a solo event. Any Programming Language can be used. This Event consists of two rounds.",
     "rounds": [
         "Easy and Intermediate type of problem statements would be given, that should be solved within given time limit. 50% of total participants on the leaderboard after Round 1 would be entering Round 2 for the Final Phase of CodeAthon. In case of tie breakers , total execution time will be considered and promotion to Round 2 will be declared.",
         "In the Final Round of CodeAthon, Intermediate and Hard type of problem statements would be given, that should be solved within given time limit. Top 2 on the leaderboard would be declared as winners for CodeAthon. In case of tie breakers, same total execution time will be considered and winners would be declared."
@@ -80,7 +80,7 @@ var events=[{
 },
 {
     "event": "UI DESIGNING",
-    "rules": "There will be one round. The participants will be given the requirements of the website on spot and they need to design the User Interface for it on Adobe XD. Participants are requested to get their own laptops with Adobe XD installed. The link for installation: https://www.adobe.com/go/dnld-xd .",
+    "rules": "This is a solo event. There will be one round. The participants will be given the requirements of the website on spot and they need to design the User Interface for it on Adobe XD. Participants are requested to get their own laptops with Adobe XD installed. The link for installation: https://www.adobe.com/go/dnld-xd .",
     "rounds": [],
     "date": "8th",
     "time": "12PM",
@@ -105,7 +105,7 @@ var events=[{
 },
 {
     "event": "FAST TYPING",
-    "rules": "A paragraph will be given to type, the winner will be decided based on who finishes fast with accuracy.The given  paragraph must be typed as it is, keeping in mind: case sensitivity, punctuations and special characters.Once you finish the given task, inform the coordinator immediately .The event will be conducted in two rounds.The participants who qualify in first round will move to the second round.",
+    "rules": "This is a solo event. A paragraph will be given to type, the winner will be decided based on who finishes fast with accuracy.The given  paragraph must be typed as it is, keeping in mind: case sensitivity, punctuations and special characters.Once you finish the given task, inform the coordinator immediately .The event will be conducted in two rounds.The participants who qualify in first round will move to the second round.",
     "rounds": [],
     "date": "9th",
     "time": "11 AM",
@@ -138,7 +138,7 @@ var events=[{
 },
 {
     "event": "MOBILE PHOTOGRAPHY AND MEME MAKING",
-    "rules": "Certified amount of time will be given to the participants to click a picture and pick a theme for their meme within the college campus. The date when the picture was clicked will be checked prior to the commencement of the time for making the meme. Any mobile application can be used to create the meme and the participant can pick any theme. Stipulated amount of time will be given to all the participants to create the meme. The meme will be judged on basis of creativity. Use of a vulgar theme/language is prohibited. Organizers decision will be final.If found using any other device other than mobile to take pictures, he/she will be disqualified immediately and refund would not be made.",
+    "rules": "This is a solo event. Certified amount of time will be given to the participants to click a picture and pick a theme for their meme within the college campus. The date when the picture was clicked will be checked prior to the commencement of the time for making the meme. Any mobile application can be used to create the meme and the participant can pick any theme. Stipulated amount of time will be given to all the participants to create the meme. The meme will be judged on basis of creativity. Use of a vulgar theme/language is prohibited. Organizers decision will be final.If found using any other device other than mobile to take pictures, he/she will be disqualified immediately and refund would not be made.",
     "rounds": [],
     "date": "9th",
     "time": "9:30 AM",
@@ -160,7 +160,7 @@ var events=[{
 },
 {
     "event": "MINUTE TO WIN IT",
-    "rules": "There will be a total of 4 rounds. All the participants will be given a task to perform. The task has to be completed within 1 min (60 sec) in order to win that round and advance to the next round. Each round has a different challenge. ",
+    "rules": "This is a solo event. There will be a total of 4 rounds. All the participants will be given a task to perform. The task has to be completed within 1 min (60 sec) in order to win that round and advance to the next round. Each round has a different challenge. ",
     "rounds": [
         "In the first 3 rounds participants have to finish the given task within 60 seconds. Whoever completes the task qualifies to the next round.",
         "In is the finale round where the person who finishes the task first is the winner."
@@ -188,7 +188,7 @@ var events=[{
 },
 {
     "event": "DIZZY FOOTBALL",
-    "rules": "Organizers decision is final. Any such conflicts with the organisers will be disqualified.",
+    "rules": "This is a solo event. Organizers decision is final. Any such conflicts with the organisers will be disqualified.",
     "rounds": [
         "Each player gets three chances to take a shot at the goal, he/she has to spin around the ball(15 spins) kept at a distance from the goal, after 15 rounds shoot the ball towards the goal. If it passes then you are through to the next round.",
         "Obstacles will be kept in your way to make the competition more complicated. And the same is continued."
