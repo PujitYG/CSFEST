@@ -196,9 +196,9 @@ var events=[{
     "date": "8th",
     "time": "12PM",
     "venue": "Ground",
-    "Entry": "80",
-    "prize1": "800",
-    "prize2": "400"
+    "Entry": "50",
+    "prize1": "500",
+    "prize2": "200"
 },
 {
     "event": "MINI BASKETBALL",
