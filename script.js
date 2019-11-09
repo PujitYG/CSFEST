@@ -16,7 +16,7 @@ var events=[{
     "event": "BEG BORROW STEAL",
     "rules": "A team will comprise of 2 players.All the teams will be provided with a list of items.Team members will have to complete the task within a time limit of 1 hour.Team can either beg, borrow or steal the items enlisted.Teams will be judged on first come first serve basis and also on the number of items and the relevance of the items collected.Organisers decision is final.",
     "rounds": [],
-    "date": "9th",
+    "date": "11th",
     "time": "10 AM",
     "venue": "314",
     "Entry": "80",
@@ -30,7 +30,7 @@ var events=[{
         "In the first round a simple code with syntax errors will be given. Participants have to correct the code and type the code with MONITOR SWITCHED OFF. Ten minutes will be given for correcting the errors and typing the code. The team which will be able to solve it in the given time will be qualified for the next round. Based on the results of first round the teams will be selected for second round.",
         "In the second round which is the final round only a problem statement will be given. The Team needs to write a code for the given problem statement by using C Language and type the code in GCC C compiler on Ubuntu with MONITORS SWITCHED OFF. Twenty minutes will be given to each team for completing this task. Winners will be announced based on the results of compilation and execution."
     ],
-    "date": "9th",
+    "date": "11th",
     "time": "9:30AM",
     "venue": "DAA Lab",
     "Entry": "80",
@@ -43,7 +43,7 @@ var events=[{
     "rounds": ["The participants will be given a set of questions which should be answered in a time span of 20 minutes.5 Participants with most number of correct answers will be selected for second round.",
         "The selected participants will begiven questions and they should be answered in a time span of 10mins.The participant with highest number of points will be declared as winner."
     ],
-    "date": "9th",
+    "date": "11th",
     "time": "11 AM",
     "venue": "CN LAB",
     "Entry": "50",
@@ -107,7 +107,7 @@ var events=[{
     "event": "FAST TYPING",
     "rules": "This is a solo event. A paragraph will be given to type, the winner will be decided based on who finishes fast with accuracy.The given  paragraph must be typed as it is, keeping in mind: case sensitivity, punctuations and special characters.Once you finish the given task, inform the coordinator immediately .The event will be conducted in two rounds.The participants who qualify in first round will move to the second round.",
     "rounds": [],
-    "date": "9th",
+    "date": "11th",
     "time": "11 AM",
     "venue": "DBMS Lab",
     "Entry": "50",
@@ -129,7 +129,7 @@ var events=[{
     "event": "PUBG",
     "rules": "4 player squad,Battle Royal Erangle map.",
     "rounds": [],
-    "date": "9th",
+    "date": "11th",
     "time": "10AM",
     "venue": "Seminar Hall 2",
     "Entry": "200",
@@ -140,7 +140,7 @@ var events=[{
     "event": "MOBILE PHOTOGRAPHY AND MEME MAKING",
     "rules": "This is a solo event. Certified amount of time will be given to the participants to click a picture and pick a theme for their meme within the college campus. The date when the picture was clicked will be checked prior to the commencement of the time for making the meme. Any mobile application can be used to create the meme and the participant can pick any theme. Stipulated amount of time will be given to all the participants to create the meme. The meme will be judged on basis of creativity. Use of a vulgar theme/language is prohibited. Organizers decision will be final.If found using any other device other than mobile to take pictures, he/she will be disqualified immediately and refund would not be made.",
     "rounds": [],
-    "date": "9th",
+    "date": "11th",
     "time": "9:30 AM",
     "venue": "313",
     "Entry": "50",
@@ -179,7 +179,7 @@ var events=[{
         "The participants will be given a set of questions which should be answered in 15 minutes. Participants who passes cut off will be selected for second round.",
         "Participants will be asked 10 questions. If they don’t answer it will pass on to the next team. Based on points winners will be declared."
     ],
-    "date": "9th",
+    "date": "11th",
     "time": "10:30 AM",
     "venue": "304",
     "Entry": "80",
@@ -204,7 +204,7 @@ var events=[{
     "event": "MINI BASKETBALL",
     "rules": "Team of 3. The tournament proceeds depending upon the number of teams.3 players,1 substitute .Toss decides the starting team.Looser's ball  2 halves - 7mins each (14 playing minutes per match) .Team with the maximum points at the end of second half is the winner,cash price may subject to change without prior notice(will only increase).",
     "rounds": [],
-    "date": "9th",
+    "date": "11th",
     "time": "9:30 AM",
     "venue": "Basketball Court",
     "Entry": "150",
@@ -238,7 +238,7 @@ function cards(){
         div.classList.add("col-lg-8");
         div.classList.add("col-des")
         var h3=document.createElement("h3");
-        h3.innerText=arr.event; 
+        h3.innerText=arr.event;
         div.appendChild(h3);
         var p1=create_node('Rules: ',arr.rules);
         div.appendChild(p1);
@@ -252,16 +252,16 @@ function cards(){
     }
         var p1=create_node('Date: ',arr.date);
         div.appendChild(p1);
-       
+
         var p1=create_node('Time: ',arr.time);
         div.appendChild(p1);
-       
+
         var p1=create_node('Room: ',arr.venue);
         div.appendChild(p1);
-    
+
         var p1=create_node('Entry Price: ₹',arr.Entry);
         div.appendChild(p1);
-        
+
         var p1=create_node('Prize 1: ₹',arr.prize1);
         div.appendChild(p1);
         var p1=create_node('Prize 2: ₹',arr.prize2);
