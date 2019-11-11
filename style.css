@@ -47,7 +47,7 @@ background-color: black;
 }
 
 .th{
-   font-size:15vh;
+   font-size:17vh;
 }
 
 #carousel-item{
@@ -167,7 +167,6 @@ background-color: black;
     background-color: black;
 }
 
-
 .card-link{
     color: black;
     text-decoration: underline;
@@ -214,7 +213,7 @@ background-color: black;
     }
 
     .th{
-        font-size:6vh;
+        font-size:8vh;
     }
     
     #card1{
